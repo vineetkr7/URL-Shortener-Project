@@ -1,0 +1,6 @@
+logger_name = 'url_shortener'
+logger_level = 'INFO'
+urls_json_file = 'urls.json'
+index_page = 'index.html'
+your_url_page = 'your_url.html'
+not_found_404_page = 'page_not_found.html'
